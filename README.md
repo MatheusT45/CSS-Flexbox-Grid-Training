@@ -1,2 +1,2 @@
 # CSS-Flexbox-Grid-Training
-CSS Grid and Flexbox layout training
+A simple CSS Flexbox and Grid layout training 
